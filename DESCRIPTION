@@ -1,0 +1,10 @@
+Package: baresoilevap
+Type: Package
+Title: 
+Version: 0.1.0
+Author: Rafael Ventura
+Maintainer: Rafael Ventura <rafael@focusontop.net>
+Description: Implementation of bare soil evaporation model described by Kondo (Meteorological Society of Japan, 1994)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
